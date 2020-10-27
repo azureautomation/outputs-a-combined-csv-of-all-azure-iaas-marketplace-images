@@ -1,0 +1,20 @@
+{
+    "Author": "Jono Lewis",
+    "ContentSize": 3276,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/outputs-a-combined-csv-of-all-azure-iaas-marketplace-images/master/Get-AzureMarketImages-csv.ps1",
+    "DownloadCount": 597,
+    "Id": "Outputs-a-combined-csv-of-ec15b818",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 407,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2016-9-27T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Quickly and Easily Output all available MarketPlace Image Types and their corresponding Publisher, Offer and SKU for any region in Azure. Depends on Azure PowerShell 2.0.1 and higher.\u00a0Without this script you will need to go through the Azure Market Place images 1 publisher at",
+    "Title": "Outputs a combined csv of all Azure IaaS MarketPlace Images",
+    "UpdatedDate": "2016-11-2T00:00:00",
+    "Url": "https://github.com/azureautomation/outputs-a-combined-csv-of-all-azure-iaas-marketplace-images",
+    "UserTags": "IaaS, Windows Azure Virtual Machines, Windows Azure PowerShell"
+}
